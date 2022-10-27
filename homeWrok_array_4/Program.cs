@@ -15,7 +15,6 @@ namespace homeWrok_array_4
 
             int[] number = new int[0];
             string userInput;
-
             bool isExit = false;
 
             while (isExit == false) 
@@ -34,10 +33,12 @@ namespace homeWrok_array_4
                     if (userInput.Length > 0)
                     {
                         int sum = 0;
+
                         for (int i = 0; i < number.Length; i++)
                         {
                             sum += number[i];
                         }
+
                         Console.WriteLine($"Сумма введеных чисел равна {sum}");
                     }
                     else
