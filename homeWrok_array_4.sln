@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homeWrok_array_4", "homeWrok_array_4\homeWrok_array_4.csproj", "{777A9051-5173-44D4-B081-8D0040C110BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{777A9051-5173-44D4-B081-8D0040C110BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777A9051-5173-44D4-B081-8D0040C110BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{777A9051-5173-44D4-B081-8D0040C110BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777A9051-5173-44D4-B081-8D0040C110BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE12D7EA-DA82-4DF1-B950-7BF011114B76}
+	EndGlobalSection
+EndGlobal
